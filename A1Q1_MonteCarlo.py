@@ -1,7 +1,6 @@
 """
 coding -UTF-8
-Assignment 1-CIS694/EEC693/CIS593 Deep Learning-2022 Spring
-Q1 To Calculate Overlapped Region between Two given Circle Using MonteCarlo Approach
+To Calculate Overlapped Region between Two given Circle Using MonteCarlo Approach
 Author: Sabareeswaran Shanmugam
 CSU ID:2796495
 Generic Approach (This program works for different Values of circle equations c1 ,c2)
