@@ -12,7 +12,7 @@ This is Generic Approach (This program works for different Values of circle equa
 
 ![Screenshot 2022-02-17 at 6 40 57 PM](https://user-images.githubusercontent.com/94094997/154590366-723800b1-551d-4233-aaca-dbc0fb24b713.png)
 
-Slightly Area of overlaped Circle changes because of Rndom points Generation.
+Slightly Area of overlaped Circle changes because of Random points Generation.
 
 
 # Live demo 
