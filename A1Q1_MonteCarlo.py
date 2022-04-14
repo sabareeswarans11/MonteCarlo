@@ -2,7 +2,6 @@
 coding -UTF-8
 To Calculate Overlapped Region between Two given Circle Using MonteCarlo Approach
 Author: Sabareeswaran Shanmugam
-CSU ID:2796495
 Generic Approach (This program works for different Values of circle equations c1 ,c2)
 
 """
